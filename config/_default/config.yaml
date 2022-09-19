@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Maddalena Totarelli # Website name
-baseurl: 'maddalenatotarelli.github.io' #  'https://maddalenatotarelli.com/' Website URL
+baseurl: 'https://maddalenatotarelli.github.io/' #  'https://maddalenatotarelli.com/' Website URL
 copyright: '© 2022 Maddalena Totarelli' # Footer text, e.g. '© {year} Me'
 
 ############################
